@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St Joe Plumbing & Heating HUB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>St Joe Plumbing & Heating HUB</h1>
+    <p>Reliable Plumbing & Heating Solutions for Homes and Businesses</p>
+    <a href="tel:07057022225" class="btn">Call Us Now</a>
+    <a href="https://wa.me/2347057022225" class="btn whatsapp">WhatsApp Us</a>
+</header>
+
+
+<section>
+    <h2>About Us</h2>
+    <p>
+        St Joe Plumbing & Heating HUB provides professional plumbing and heating
+        services for residential and commercial customers in Abuja, Nigeria.
+        We deliver reliable installation, repairs, maintenance and quality
+        solutions you can trust.
+    </p>
+</section>
+
+
+<section>
+    <h2>Our Services</h2>
+
+    <div class="services">
+        <div>
+            <h3>Residential Plumbing</h3>
+            <p>Home pipe repairs, bathroom fittings, water systems and maintenance.</p>
+        </div>
+
+        <div>
+            <h3>Commercial Plumbing</h3>
+            <p>Professional plumbing support for offices, estates, hotels and businesses.</p>
+        </div>
+
+        <div>
+            <h3>Leak Repairs</h3>
+            <p>Fast detection and repair of leaking pipes and water systems.</p>
+        </div>
+
+        <div>
+            <h3>Water Installation</h3>
+            <p>Water tanks, pumps, piping installation and replacements.</p>
+        </div>
+    </div>
+
+</section>
+
+
+<section>
+    <h2>Why Choose Us?</h2>
+    <ul>
+        <li>Professional and reliable service</li>
+        <li>Quality workmanship</li>
+        <li>Affordable solutions</li>
+        <li>Residential and commercial experience</li>
+    </ul>
+</section>
+
+
+<section>
+    <h2>Contact Us</h2>
+    <p>📍 Abuja, Nigeria</p>
+    <p>📞 07057022225</p>
+    <p>📞 08165916551</p>
+</section>
+
+
+<footer>
+    <p>© 2026 St Joe Plumbing & Heating HUB. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
